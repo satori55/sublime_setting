@@ -42,6 +42,7 @@ My sublime package list and settings
 {
 	
   "terminal": ${path},
+  "parameters": ["."]
 
 }
 ```
