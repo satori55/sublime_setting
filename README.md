@@ -64,3 +64,14 @@ My sublime package list and settings
 }
 
 ```
+
+4. Pyright
+```
+// Settings in here override those in "LSP-pyright/LSP-pyright.sublime-settings"
+
+{
+	"settings": {
+		"python.pythonPath": ${python}
+	}
+}
+```
